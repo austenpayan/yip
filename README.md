@@ -3,6 +3,8 @@ yip
 
 A personal Grunt setup.
 
+run ``` npm install ```
+
 
 Dependencies included:
 
